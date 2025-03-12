@@ -36,8 +36,8 @@ class Gamepad:
 
   def __init__(
       self,
-      vendor_id=0x046D,
-      product_id=0xC219,
+      vendor_id=0x54c,
+      product_id=0xce6,
       vel_scale_x=0.4,
       vel_scale_y=0.4,
       vel_scale_rot=1.0,
